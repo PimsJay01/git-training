@@ -1,2 +1,2 @@
-# git-training
+# git-training for Citron
 Git Training
